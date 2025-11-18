@@ -11,7 +11,7 @@
 
 # 👋 Hey, I'm Steven
 
-**AI Innovation Manager @ BDO**  
+**Manager - Research, AI and Development @ BDO**  
 Building real AI engineering solutions, pushing boundaries, and keeping the vibes high.
 
 ---
