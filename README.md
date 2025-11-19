@@ -6,8 +6,7 @@
 
 *Building real AI engineering solutions, pushing boundaries, and keeping the vibes high.*
 
-[![Website](https://img.shields.io/badge/🌐_Website-stevenwangler.com-blue?style=for-the-badge)](https://stevenwangler.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/stevenwangler)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/steven-wangler/)
 [![GitHub followers](https://img.shields.io/github/followers/swanglerbdo?style=for-the-badge&logo=github)](https://github.com/swanglerbdo)
 
 </div>
